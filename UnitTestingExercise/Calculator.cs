@@ -26,7 +26,7 @@ namespace UnitTestingExercise
 
         public int Subtract(int minuend, int subthend) 
         {
-            throw new NotImplementedException();
+           return minuend - subthend;
         }
         // Keep track of which number is getting passed as minuend and subtrahend
 
